@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TradingApp",
+    "slug": "TradingApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TradingApp"
+}
